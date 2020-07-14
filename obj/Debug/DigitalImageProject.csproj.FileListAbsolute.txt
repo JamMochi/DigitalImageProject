@@ -1,0 +1,13 @@
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\bin\Debug\DigitalImageProject.exe.config
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\bin\Debug\DigitalImageProject.exe
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\bin\Debug\DigitalImageProject.pdb
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\obj\Debug\DigitalImageProject.csprojAssemblyReference.cache
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\obj\Debug\DigitalImageProject.Form1.resources
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\obj\Debug\DigitalImageProject.Properties.Resources.resources
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\obj\Debug\DigitalImageProject.csproj.GenerateResource.cache
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\obj\Debug\DigitalImageProject.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\obj\Debug\DigitalImageProject.exe
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\obj\Debug\DigitalImageProject.pdb
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\obj\Debug\DigitalImageProject.Scale.resources
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\obj\Debug\DigitalImageProject.EdgeDetection.resources
+C:\Users\henry\source\repos\DigitalImageProject\DigitalImageProject\obj\Debug\DigitalImageProject.DoubleForm.resources
